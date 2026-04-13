@@ -1,0 +1,7 @@
+{
+  "name": "Monitor",
+  "description": "Minimal transparent system monitor — CPU, RAM, network throughput, ping, disk, top 10 processes. Phosphorescent green Terminal Homebrew style with animated SVG globe.",
+  "author": "Xavier Gregor",
+  "authorUrl": "https://www.gregor.fr",
+  "screenshot": "screenshot.png"
+}
