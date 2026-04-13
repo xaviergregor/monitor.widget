@@ -34,11 +34,9 @@ A minimal, transparent macOS system monitor widget for [Übersicht](https://trac
 
 ```bash
 # Clone the repo
-git clone https://github.com/xaviergregor/monitor.widget.git \
-  ~/Library/Application\ Support/Übersicht/widgets/monitor.widget
+git clone https://github.com/xaviergregor/monitor.widget.git 
 ```
-
-Or download the zip and copy the `monitor.widget` folder to:
+unzip widget.zip and copy the `monitor.widget` folder to:
 
 ```
 ~/Library/Application Support/Übersicht/widgets/
